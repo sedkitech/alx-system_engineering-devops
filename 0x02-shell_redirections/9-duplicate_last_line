@@ -1,0 +1,2 @@
+#!/bin/bash
+yy iacta tail -1 p iacta tail +1
