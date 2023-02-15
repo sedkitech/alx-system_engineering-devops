@@ -1,0 +1,1 @@
+ echo {a..z}{a..z}| sed 's/oo//g' | sed 's/ //g' | fold -s2
